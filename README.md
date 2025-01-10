@@ -1,4 +1,4 @@
-# HealthcareAnalysis
+# Healthcare Analysis
 
 **Insurance Provider Spending**8
 Identifies which health insurance provider spends the most.
