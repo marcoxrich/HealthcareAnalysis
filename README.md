@@ -1,6 +1,6 @@
 # Healthcare Analysis
 
-**Insurance Provider Spending**8
+**Insurance Provider Spending**
 Identifies which health insurance provider spends the most.
 
 ***Age vs. Patient Visits***
